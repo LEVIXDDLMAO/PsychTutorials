@@ -1,0 +1,1 @@
+Hardcode notes type
